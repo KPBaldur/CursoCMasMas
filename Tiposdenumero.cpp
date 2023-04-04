@@ -14,9 +14,16 @@ int main (){
 	//numeros completos o con gran decimales
 	double numeromayor = 16.3469;
 	
+	//Caracteres de tipo string
+	char letra = 'a 1';
+	
 	cout<<numeroentero;
+	
 	cout<<numerofloat;
+	
 	cout<<numeromayor;
+	
+	cout<<letra;
 	
 	return 0;
 }
